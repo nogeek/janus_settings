@@ -16,3 +16,9 @@
 [submodule "bufexplorer.zip"]
 	path = bufexplorer.zip
 	url = git://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "FuzzyFinder"]
+	path = FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
+[submodule "L9"]
+	path = L9
+	url = https://github.com/vim-scripts/L9.git
