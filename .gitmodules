@@ -13,3 +13,6 @@
 [submodule "vim-rails"]
 	path = vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "FuzzyFinder"]
+	path = FuzzyFinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
